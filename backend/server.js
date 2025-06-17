@@ -39,3 +39,6 @@ sequelize.sync()
  .catch((error)=>{
   console.error("Erro ao conectar ao banco de dados: ",error);
  });
+
+ //comnetário só para comitar
+ 
